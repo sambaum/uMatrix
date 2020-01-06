@@ -21,7 +21,9 @@ referrer-spoof: behind-the-scene false
 * * xhr allow
 * 1st-party * allow
 * 1st-party frame allow
+accounts.google.com 1st-party cookie allow
 google.ch * cookie block
 google.com * cookie block
-google.com 1st-party cookie allow
-myactivity.google.com google.com cookie inherit
+google.de * cookie block
+mail.google.com 1st-party cookie allow
+myactivity.google.com 1st-party cookie allow
