@@ -24,6 +24,8 @@ referrer-spoof: behind-the-scene false
 accounts.google.com 1st-party cookie allow
 calendar.google.com 1st-party cookie allow
 contacts.google.com 1st-party cookie allow
+docs.google.com 1st-party cookie allow
+drive.google.com 1st-party cookie allow
 google.ch * cookie block
 google.com * cookie block
 google.de * cookie block
