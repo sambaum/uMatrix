@@ -23,6 +23,8 @@ referrer-spoof: behind-the-scene false
 * 1st-party frame allow
 accounts.google.com 1st-party cookie allow
 calendar.google.com 1st-party cookie allow
+console.cloud.google.com 1st-party cookie allow
+console.developers.google.com 1st-party cookie allow
 contacts.google.com 1st-party cookie allow
 docs.google.com 1st-party cookie allow
 drive.google.com 1st-party cookie allow
