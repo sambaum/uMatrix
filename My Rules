@@ -10,6 +10,7 @@ matrix-off: wyciwyg-scheme true
 noscript-spoof: * true
 referrer-spoof: * true
 referrer-spoof: behind-the-scene false
+referrer-spoof: id.atlassian.com false
 * * * block
 * * cookie allow
 * * css allow
