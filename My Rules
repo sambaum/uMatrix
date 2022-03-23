@@ -9,7 +9,9 @@ matrix-off: vivaldi-scheme true
 matrix-off: wyciwyg-scheme true
 noscript-spoof: * true
 referrer-spoof: * true
+referrer-spoof: *.atlassian.com false
 referrer-spoof: behind-the-scene false
+referrer-spoof: bitbucket.org false
 referrer-spoof: id.atlassian.com false
 * * * block
 * * cookie allow
