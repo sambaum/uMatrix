@@ -12,11 +12,13 @@ referrer-spoof: * true
 referrer-spoof: *.atlassian.com false
 referrer-spoof: *.atlassian.net false
 referrer-spoof: *.jira.com false
+referrer-spoof: *.revolut.com false
 referrer-spoof: atlassian.com false
 referrer-spoof: atlassian.net false
 referrer-spoof: behind-the-scene false
 referrer-spoof: bitbucket.org false
 referrer-spoof: id.atlassian.com false
+referrer-spoof: revolut.com false
 * * * block
 * * cookie allow
 * * css allow
